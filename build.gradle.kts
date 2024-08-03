@@ -26,6 +26,6 @@ tasks {
         archiveBaseName.set("ArduinoKt")
         archiveVersion.set("1.0")
         configurations = listOf(project.configurations.getByName("compileClasspath"))
-        project.setProperty("mainClassName", "org.lmdeveloper.arduino.bukkit.ArduinoKt")
+        project.setProperty("mainClassName", "org.lmdeveloper.arduino.ArduinoKt")
     }
 }

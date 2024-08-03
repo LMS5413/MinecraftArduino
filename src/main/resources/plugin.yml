@@ -1,4 +1,4 @@
 name: "ArduinoInBukkit"
-main: "org.lmdeveloper.arduino.bukkit.Arduino"
+main: "org.lmdeveloper.arduino.Arduino"
 version: "1.0"
 api-version: 1.13
